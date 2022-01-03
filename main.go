@@ -14,8 +14,6 @@ func main() {
 	printCharacteristics(Android)
 	//fmt.Println("OS:", Android.OS())
 	printCharacteristics(Radio)
-	//fmt.Println("ButtonsCount:", Radio.ButtonsCount())
-
 }
 
 func printCharacteristics(a electronic.Phone) {
