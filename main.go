@@ -12,7 +12,6 @@ func main() {
 	printCharacteristics(Apple)
 	//fmt.Println("OS:", Apple.OS())
 	printCharacteristics(Android)
-	//fmt.Println("OS:", Android.OS())
 	printCharacteristics(Radio)
 }
 
